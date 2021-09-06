@@ -1,0 +1,10 @@
+.input-feild {
+  text-align: center;
+  justify-content: space-around;
+  display: flex;
+  padding: 10px;
+  color: red;
+}
+.table {
+  margin: 20px;
+}
