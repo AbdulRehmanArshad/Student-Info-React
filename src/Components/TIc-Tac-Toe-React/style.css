@@ -1,0 +1,21 @@
+.container {
+  text-align: center;
+  align-content: center;
+}
+
+.box {
+  margin: 1px;
+  width: 80px;
+  height: 80px;
+  border: 5px solid grey;
+  display: inline-block;
+  line-height: 80px;
+  border-radius: 50px;
+  background-color: orangered;
+}
+
+.board {
+  display: inline-flex;
+  flex-wrap: wrap;
+  width: 250px;
+}
