@@ -1,0 +1,15 @@
+img {
+  height: 260px;
+  width: 200px;
+}
+.cards {
+}
+.card {
+  justify-content: space-between;
+
+  display: flex;
+  float: right;
+  margin: 120px;
+  border: 10 px solid black;
+  border-radius: 50px;
+}
